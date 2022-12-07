@@ -1,2 +1,2 @@
 # freshbreeze
-Aid to help my students transition from html to react using next.js
+Aid to help my students identify improvements in react using next.js
